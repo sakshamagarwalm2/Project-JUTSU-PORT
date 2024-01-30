@@ -548,7 +548,7 @@ footer .copyright{
         display: block;
     }
 #dc-hide{
-    display:none;
+    visibility: hidden;
 }
     
     .hero .left img{
