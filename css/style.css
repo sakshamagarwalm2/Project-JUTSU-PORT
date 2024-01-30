@@ -547,6 +547,10 @@ footer .copyright{
     .hamberger{
         display: block;
     }
+#dc-hide{
+    display:none;
+}
+    
     .hero .left img{
         width:260px;
     }
